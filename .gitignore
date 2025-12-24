@@ -1,0 +1,26 @@
+# ------------------------------
+# Google Sheets Configuration
+# ------------------------------
+GOOGLE_SHEETS_CLIENT_ID=
+GOOGLE_SHEETS_CLIENT_SECRET=
+GOOGLE_SHEETS_REFRESH_TOKEN=
+GOOGLE_SHEETS_SPREADSHEET_ID=
+
+# ------------------------------
+# Tavily API
+# ------------------------------
+TAVILY_API_KEY=
+
+# ------------------------------
+# AI Model (Google Gemini)
+# ------------------------------
+GEMINI_API_KEY=
+GEMINI_MODEL_NAME=gemini-pro
+
+# ------------------------------
+# n8n (Optional / Advanced)
+# ------------------------------
+N8N_HOST=
+N8N_PORT=5678
+N8N_PROTOCOL=http
+N8N_ENCRYPTION_KEY=
