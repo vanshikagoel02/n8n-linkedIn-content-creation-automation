@@ -104,5 +104,5 @@ Update Content & Status in Google Sheets
 6. Content will be auto-generated and updated 🎯
 
 ---
-Vanshika Goel
-Developer
+- Vanshika Goel
+- Developer
