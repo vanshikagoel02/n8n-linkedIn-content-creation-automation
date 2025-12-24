@@ -30,15 +30,15 @@ This makes the workflow ideal for **personal branding, content creators, founder
 ---
 
 ## 🔁 Workflow Architecture
-Trigger (Manual / Schedule(7am daily)
+- Trigger (Manual / Schedule(7am daily)
 ↓
-Read Topic from Google Sheets
+- Read Topic from Google Sheets
 ↓
-Fetch Context via Tavily API
+- Fetch Context via Tavily API
 ↓
-AI Agent (Content Generation)
+- AI Agent (Content Generation)
 ↓
-Update Content & Status in Google Sheets
+- Update Content & Status in Google Sheets
 
 ---
 
